@@ -5,6 +5,12 @@ The data can then be used inside the blender scripts.
 
 >**Disclaimer**: The underlying code (async_loop) is taken from the [blender cloud addon](https://cloud.blender.org/services).
 
+## Installation
+
+1. Download this addon.
+2. In blender go to `Edit` -> `Preferences` -> `Add-ons` -> `Install...` -> Select the folder/zip of this addon -> Press `Install addon`
+3. Search for this addon and enable it.
+
 ## Usage
 
 In the 3D Viewport press `N` to toggle the context and open the `TCP Server Panel`.
